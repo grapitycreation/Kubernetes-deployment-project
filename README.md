@@ -1,6 +1,5 @@
 # Đồ Án Môn NT132 - Movie App
 ## Lời mở đầu
-Nhóm chúng em xin phép chào thầy, các bạn cũng như mọi người truy cập được tới repo này.
 Repository này là source code về frontend, backend(api), Dockerfile, các file yaml liên quan về web chiếu phim.
 >Mục đính chính: Demo về các tính năng của Kubernetes (K8s).
 
