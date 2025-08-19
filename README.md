@@ -40,7 +40,6 @@ Repository này là source code về frontend, backend(api), Dockerfile, các fi
 - Theo dõi log và giám sát hoạt động của ứng dụng.
 
 ## Các link liên quan:
-- [Link Repo](https://github.com/HoaSonTaiKhoi/K8s.io_DoAn_NT132)
 - [Link Danh sách phát Demo](https://www.youtube.com/watch?v=itmKM771e4U&list=PLEfRbAMIW0HuR1hlUNDo0-e4UCkgwPBeT&pp=gAQB)
 
 ## Tham khảo: 
